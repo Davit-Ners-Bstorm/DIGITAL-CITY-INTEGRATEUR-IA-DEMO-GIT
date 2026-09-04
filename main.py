@@ -6,6 +6,12 @@ def testAdd():
 
 def first_dev():
     return 42
+# Code avance
 
 def main_avance():
     return 'Main avance'
+
+
+# Code avance
+def dev_avance():
+    return "J'avance"
