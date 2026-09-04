@@ -4,3 +4,5 @@ def testAdd():
 def testAdd():
     return True
 
+def first_dev():
+    return 42
