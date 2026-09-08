@@ -18,7 +18,7 @@ def dev_avance():
     return "J'avance"
 
 def correction_main1():
-    print('Hello')
+    print('Good Bye')
     return True
 
 def ajout_conflit_dev():
