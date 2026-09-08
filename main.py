@@ -18,6 +18,8 @@ def dev_avance():
     return "J'avance"
 
 def correction_main1():
+    print('Good Bye')
+    # Old conflit ici
     print('Problem')
     return True
 
