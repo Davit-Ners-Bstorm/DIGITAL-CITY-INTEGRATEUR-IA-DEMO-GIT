@@ -15,3 +15,9 @@ def main_avance():
 # Code avance
 def dev_avance():
     return "J'avance"
+
+def correction_main1():
+    return True
+
+def patch():
+    return True
