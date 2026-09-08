@@ -18,7 +18,11 @@ def dev_avance():
     return "J'avance"
 
 def correction_main1():
+    print('Hello')
     return True
+
+def ajout_conflit_dev():
+    return False
 
 def patch():
     return True
