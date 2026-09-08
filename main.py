@@ -12,7 +12,8 @@ def main_avance():
     return 'Main avance'
 
 
-# Code avance
+# Code avance très bien
+# Nouveau commentaire
 def dev_avance():
     return "J'avance"
 
@@ -21,3 +22,6 @@ def correction_main1():
 
 def patch():
     return True
+
+def unstable_function2():
+    return False
